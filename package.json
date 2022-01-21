@@ -1,0 +1,17 @@
+{
+  "name": "@datascript/javascript-application",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13.0"
+  },
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo 'hello build'",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
